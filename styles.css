@@ -1,0 +1,24 @@
+* {
+    background-color: #fff0f5;
+    color: #8b0000;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+.title {
+    font-weight: bold;
+    font-size: 40px;
+    text-align: center;
+}
+
+a {
+    color: #ff8c00;
+}
+
+a:visited {
+    color: #191970;
+}
+
+img {
+    height: auto;
+    width: 400px;
+}
